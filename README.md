@@ -8758,8 +8758,8 @@ const locatorsData = [
       support: {
         email: "orders@reliancedigital.com",
         phone: "+91-9876543213",
-        whatsapp: "+91-9876543213",
-        primaryContact: "email"
+        whatsapp: "+91-7869809022",
+        primaryContact: "whatsapp"
       },
       rating: "4.5",
       reviews: "2000+",
